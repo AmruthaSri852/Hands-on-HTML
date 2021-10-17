@@ -58,6 +58,7 @@ Block level
 -  Always starts from new line
 -  Always end before the new line
 -  Examples: p tag; div tag; all h1....h6 tags; ordered and unorder list tags.
+
 Inline level
 -  Takes up what is requires and adds meaning to the web page
 -  Always starts from where the previous element ended
