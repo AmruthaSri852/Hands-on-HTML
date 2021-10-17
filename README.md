@@ -148,15 +148,15 @@ a. required: The Boolean attribute which makes a field mandatory:
 b. email: the browser will ensure that the field contains an @ symbol.
 ## Attributes: 
 Properties associated with each tag.
--  Global Attribute:
-○ Title : Add extra information (hover)
-○ Style: Add style information(font,background,color,size)
--  image tag
-○ src is the attribute used in image tag to define path
-○ Width is attribute used to define width in pixels
-○ Alt i.e alternate text if image is not loaded
--  anchor tag
-○ href used to define path of the link.
+Global Attribute:
+-  Title : Add extra information (hover)
+-  Style: Add style information(font,background,color,size)
+image tag
+-  src is the attribute used in image tag to define path 
+-  Width is attribute used to define width in pixels (r)
+-  Alt i.e alternate text if image is not loaded
+anchor tag
+-  href used to define path of the link.
 
 
 
