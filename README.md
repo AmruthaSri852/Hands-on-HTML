@@ -4,7 +4,7 @@
 ### HyperText MarkUp Language
 -  HyperText: Link between web pages.
 -  Markup Language: Text between tags which defines structure.
--  It's a language to create web pages.
+-  It's a language to create web pages. 
 -  It defines how the web page looks and how to display content
 with the help of elements.
 -  It forms or defines the structure of our Web Page.
@@ -157,31 +157,3 @@ image tag
 -  Alt i.e alternate text if image is not loaded
 anchor tag
 -  href used to define path of the link.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
